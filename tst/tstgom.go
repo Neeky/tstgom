@@ -1,4 +1,4 @@
-package tstgom
+package tst
 
 func TstGoM() string {
 	return "hello tstgom"
